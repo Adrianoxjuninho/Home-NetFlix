@@ -1,2 +1,2 @@
-# Netflix
-Tentando criar um site igual netflix
+# NetFlix
+Tentando criar a home page NetFlix
